@@ -1,7 +1,5 @@
 /*
 Name: Jawaad Ramcharitar
-UID: 10335787
-NetID: jawaadramcharitar
 Description: A simple shell program named rush, meant to fulfill the basic functions of a shell program:
     1. Implement basic shell using fork, exec, wait
     2. Utilize path to run external programs
@@ -238,4 +236,5 @@ int main(int argc, char *argv[]){
 
     return 0;
 }
+
 
